@@ -15,12 +15,6 @@ const Hero = () => {
         <p className='mt-4 text-lg text-gray-300'>
         Sou especialista na construção de aplicações web modernas e responsivas.
         </p>
-        <div className='mt-8 space-x-4'>
-            <button
-            className='bg-gradient-to-r from-green-400 to-blue-500 text-white
-            transform transition-transform duration-300 hover:scale-105 px-4 py-2 rounded-full'>Contate-Me</button>
-        </div>
-
     </div>
   )
 }
