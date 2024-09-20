@@ -13,7 +13,7 @@ const projects = [
     id: 2,
     name: "Site GTA",
     image: bookMSImage,
-    github: "https://github.com/PedrogGutierre/ProjetoGTA",
+    github: "https://pedroggutierre.github.io/ProjetoGTA/",
   },
 ];
 
